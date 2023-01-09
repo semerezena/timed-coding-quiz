@@ -4,7 +4,7 @@
 
 
 
-Currently deployed at [GitHub Pages]()
+Currently deployed at [GitHub Pages](https://semerezena.github.io/timed-coding-quiz/)
 
 ---
 
